@@ -203,7 +203,7 @@
     },
     {
         "_id":4,
-        "chef_picture": "https://example.com/chef2_picture.jpg",
+        "chef_picture": "https://img.freepik.com/free-photo/female-chef-chopping-vegetables-kitchen_23-2148763134.jpg?w=740&t=st=1683029395~exp=1683029995~hmac=32cadb7e5f490aa53a96e8c8fc76577331f884924b97ad69db9a9945591cc174",
         "chef_name": "Mehreen Sultana",
         "years_of_experience": 12,
         "num_of_recipes": 30,
@@ -272,7 +272,7 @@
 },
 {
     "_id":5,
-    "chef_picture": "https://example.com/chef1_picture.jpg",
+    "chef_picture": "https://as1.ftcdn.net/v2/jpg/01/62/54/88/1000_F_162548807_8tLHPGm0OylfVVmSNxnxO111nsn8vygu.jpg",
     "chef_name": "Nazia Ahmed",
     "years_of_experience": 15,
     "num_of_recipes": 50,
