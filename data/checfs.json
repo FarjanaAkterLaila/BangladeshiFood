@@ -1,0 +1,138 @@
+[
+    {
+        "_id":"1",
+        "chef_picture": "https://example.com/chef-1.jpg",
+        "chef_name": "Nadia Ahmed",
+        "years_of_experience": 8,
+        "number_of_recipes": 30,
+        "likes": 15000,
+        "view_recipes_button": "https://example.com/chef-1/recipes",
+        "short_bio": "Nadia Ahmed is a Bangladeshi chef with 8 years of experience in cooking traditional and modern dishes. She is known for her unique flavor combinations and creative plating techniques. In her free time, she enjoys reading books and practicing yoga.",
+        "recipes": [
+            {
+                "recipe_name": "Bangladeshi Chicken Biryani",
+                "ingredients": [
+                    "1 lb bone-in chicken pieces",
+                    "2 cups basmati rice",
+                    "3 tbsp ghee",
+                    "1 large onion, sliced",
+                    "1 tbsp ginger paste",
+                    "1 tbsp garlic paste",
+                    "2 tbsp biryani masala",
+                    "2 green chilies, chopped",
+                    "1/4 cup yogurt",
+                    "2 cups water",
+                    "1/2 cup fried onions",
+                    "1/4 cup chopped cilantro",
+                    "1/4 cup mint leaves",
+                    "salt, to taste"
+                ],
+                "cooking_method": "1. Soak the basmati rice in water for 30 minutes. 2. Heat ghee in a pot and fry the onion until golden brown. 3. Add the chicken, ginger paste, garlic paste, biryani masala, green chilies, and salt. Cook for 5 minutes. 4. Add the yogurt and cook for another 5 minutes. 5. Drain the rice and add it to the pot. 6. Add water and bring to a boil. 7. Lower the heat, cover the pot, and cook for 20-25 minutes. 8. Garnish with fried onions, cilantro, and mint leaves.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Bangladeshi Fish Curry",
+                "ingredients": [
+                    "1 lb fish, cut into pieces",
+                    "1 onion, chopped",
+                    "2 tomatoes, chopped",
+                    "1 tbsp ginger paste",
+                    "1 tbsp garlic paste",
+                    "2 green chilies, chopped",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp turmeric powder",
+                    "1 tsp chili powder",
+                    "1 cup coconut milk",
+                    "2 tbsp oil",
+                    "salt, to taste"
+                ],
+                "cooking_method": "1. Heat oil in a pan and fry the fish until browned. Remove from the pan and set aside. 2. In the same pan, add the onion and fry until golden brown. 3. Add the tomatoes, ginger paste, garlic paste, green chilies, cumin powder, coriander powder, turmeric powder, chili powder, and salt. Cook for 5-7 minutes. 4. Add the coconut milk and bring to a boil. 5. Add the fish to the pan and simmer for 10-15 minutes. 6. Serve hot with rice.",
+                "rating": 4.7
+            },
+            {
+                "name": "Shorshe Ilish (Mustard Hilsa)",
+                "ingredients": [
+                    "4 pieces of Hilsa fish",
+                    "1 tablespoon mustard seeds",
+                    "1 tablespoon poppy seeds",
+                    "1 tablespoon turmeric powder",
+                    "2 green chilies, slit",
+                    "1/2 teaspoon nigella seeds",
+                    "1/2 teaspoon salt",
+                    "2 tablespoons mustard oil"
+                ],
+                "cooking_method": "1. Wash the Hilsa fish pieces thoroughly and pat dry.\n2. Grind mustard seeds, poppy seeds, and turmeric powder into a smooth paste.\n3. Add water to the paste to make it thin.\n4. Heat mustard oil in a pan and add nigella seeds.\n5. Once the seeds start to splutter, add the green chilies.\n6. Add the mustard-poppy-turmeric paste to the pan and cook for 2-3 minutes.\n7. Add salt and 1 cup of water and let the mixture come to a boil.\n8. Add the Hilsa fish pieces to the pan and cook for 7-8 minutes on medium heat, making sure to turn the pieces over gently.\n9. Serve hot with steamed rice.",
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "_id":"2",
+        "chef_picture": "https://example.com/chef-1.jpg",
+        "chef_name": "Nadia Ahmed",
+        "years_of_experience": 8,
+        "number_of_recipes": 30,
+        "likes": 15000,
+        "view_recipes_button": "https://example.com/chef-1/recipes",
+        "short_bio": "Nadia Ahmed is a Bangladeshi chef with 8 years of experience in cooking traditional and modern dishes. She is known for her unique flavor combinations and creative plating techniques. In her free time, she enjoys reading books and practicing yoga.",
+        "recipes": [
+            {
+                "recipe_name": "Bangladeshi Chicken Biryani",
+                "ingredients": [
+                    "1 lb bone-in chicken pieces",
+                    "2 cups basmati rice",
+                    "3 tbsp ghee",
+                    "1 large onion, sliced",
+                    "1 tbsp ginger paste",
+                    "1 tbsp garlic paste",
+                    "2 tbsp biryani masala",
+                    "2 green chilies, chopped",
+                    "1/4 cup yogurt",
+                    "2 cups water",
+                    "1/2 cup fried onions",
+                    "1/4 cup chopped cilantro",
+                    "1/4 cup mint leaves",
+                    "salt, to taste"
+                ],
+                "cooking_method": "1. Soak the basmati rice in water for 30 minutes. 2. Heat ghee in a pot and fry the onion until golden brown. 3. Add the chicken, ginger paste, garlic paste, biryani masala, green chilies, and salt. Cook for 5 minutes. 4. Add the yogurt and cook for another 5 minutes. 5. Drain the rice and add it to the pot. 6. Add water and bring to a boil. 7. Lower the heat, cover the pot, and cook for 20-25 minutes. 8. Garnish with fried onions, cilantro, and mint leaves.",
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Bangladeshi Fish Curry",
+                "ingredients": [
+                    "1 lb fish, cut into pieces",
+                    "1 onion, chopped",
+                    "2 tomatoes, chopped",
+                    "1 tbsp ginger paste",
+                    "1 tbsp garlic paste",
+                    "2 green chilies, chopped",
+                    "1 tsp cumin powder",
+                    "1 tsp coriander powder",
+                    "1 tsp turmeric powder",
+                    "1 tsp chili powder",
+                    "1 cup coconut milk",
+                    "2 tbsp oil",
+                    "salt, to taste"
+                ],
+                "cooking_method": "1. Heat oil in a pan and fry the fish until browned. Remove from the pan and set aside. 2. In the same pan, add the onion and fry until golden brown. 3. Add the tomatoes, ginger paste, garlic paste, green chilies, cumin powder, coriander powder, turmeric powder, chili powder, and salt. Cook for 5-7 minutes. 4. Add the coconut milk and bring to a boil. 5. Add the fish to the pan and simmer for 10-15 minutes. 6. Serve hot with rice.",
+                "rating": 4.7
+            },
+            {
+                "name": "Shorshe Ilish (Mustard Hilsa)",
+                "ingredients": [
+                    "4 pieces of Hilsa fish",
+                    "1 tablespoon mustard seeds",
+                    "1 tablespoon poppy seeds",
+                    "1 tablespoon turmeric powder",
+                    "2 green chilies, slit",
+                    "1/2 teaspoon nigella seeds",
+                    "1/2 teaspoon salt",
+                    "2 tablespoons mustard oil"
+                ],
+                "cooking_method": "1. Wash the Hilsa fish pieces thoroughly and pat dry.\n2. Grind mustard seeds, poppy seeds, and turmeric powder into a smooth paste.\n3. Add water to the paste to make it thin.\n4. Heat mustard oil in a pan and add nigella seeds.\n5. Once the seeds start to splutter, add the green chilies.\n6. Add the mustard-poppy-turmeric paste to the pan and cook for 2-3 minutes.\n7. Add salt and 1 cup of water and let the mixture come to a boil.\n8. Add the Hilsa fish pieces to the pan and cook for 7-8 minutes on medium heat, making sure to turn the pieces over gently.\n9. Serve hot with steamed rice.",
+                "rating": 4.8
+            }
+        ]
+    }
+]
