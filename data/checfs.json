@@ -362,8 +362,9 @@
       },
 
       {
+        "_id":6,
         "chef_name": "Moin Uddin",
-        "chef_picture": "https://example.com/chef1_picture.jpg",
+        "chef_picture": "https://img.freepik.com/free-photo/side-view-chef-cutting-vegetables_23-2148763227.jpg?w=360&t=st=1683029489~exp=1683030089~hmac=79a3e5bb824b43a3f170689e154936ef6f80e3a9d3cd8a635117998a01f97da5",
         "years_of_experience": 15,
         "num_of_recipes": 70,
         "likes": 500,
