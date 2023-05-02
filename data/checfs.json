@@ -1,7 +1,7 @@
 [
     {
         "_id":1,
-        "chef_picture": "https://example.com/chef-1.jpg",
+        "chef_picture": "https://img.freepik.com/free-photo/young-confident-caucasian-cook-girl-chef-uniform-crosses-armsand-looks-camera-isolated-violet-wall-with-copy-space_141793-33149.jpg?w=740&t=st=1683028472~exp=1683029072~hmac=cd0015520d7bc852f5c6061d59667e5306fd6562d41d7279bb524133a6590576",
         "chef_name": "Nadia Ahmed",
         "years_of_experience": 8,
         "number_of_recipes": 30,
@@ -69,7 +69,7 @@
     },
     {
         "_id": 2,
-        "chef_picture": "https://example.com/chef-1.jpg",
+        "chef_picture": "https://images.pexels.com/photos/3814446/pexels-photo-3814446.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "chef_name": "Ahmed",
         "years_of_experience": 8,
         "number_of_recipes": 30,
@@ -137,7 +137,7 @@
     },
     {
         "_id": 3,
-        "chef_picture": "https://example.com/chef-1.jpg",
+        "chef_picture": "https://img.freepik.com/free-photo/confident-young-female-cook-wearing-chef-uniform-crossing-hands-isolated-white-background_141793-105456.jpg?w=740&t=st=1683028804~exp=1683029404~hmac=8d0712f120d82a80e965502ac2ce0990c976a72779963b297ff14cb55ac79f16",
         "chef_name": "Sadia Rahman",
         "years_of_experience": 10,
         "number_of_recipes": 30,
