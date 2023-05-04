@@ -10,6 +10,8 @@
         "recipes": [
             {
                 "recipe_ID":11,
+                "recipe_Img": "https://foodfusion.com/wp-content/uploads/2019/01/Kachay-Gosht-ki-Biryani-Recipe-by-Food-fusion-5.jpg",
+        "recipe_name1": "Bangladeshi Chicken Biryani",
                 "recipe_name": "Bangladeshi Chicken Biryani",
                 "ingredients":  "1.1 lb bone-in chicken pieces . 2. 2 cups basmati rice 3 tbsp ghee . 3. 1 large onion,sliced. 4. 1 tbsp ginger paste,1 tbsp garlic paste. 5. 2 tbsp biryani masala. 6. 2 green chilies. 7. chopped,1/4 cup yogurt. 8. 2 cups water. 9. 1/2 cup fried onions. 10. 1/4 cup chopped cilantro. 11. 1/4 cup mint leaves,salt, to taste",
                 "cooking_method": "1. Soak the basmati rice in water for 30 minutes. 2. Heat ghee in a pot and fry the onion until golden brown. 3. Add the chicken, ginger paste, garlic paste, biryani masala, green chilies, and salt. Cook for 5 minutes. 4. Add the yogurt and cook for another 5 minutes. 5. Drain the rice and add it to the pot. 6. Add water and bring to a boil. 7. Lower the heat, cover the pot, and cook for 20-25 minutes. 8. Garnish with fried onions, cilantro, and mint leaves.",
@@ -17,6 +19,7 @@
             },
             {
                 "recipe_ID":12,
+                "recipe_Img": "https://somethingiscooking.com/wp-content/uploads/2017/01/BengaliFishCurry2.jpg",
                 "recipe_name": "Bangladeshi Fish Curry",
                 "ingredients":"1) 1 lb fish, cut into pieces . 2) 1 onion, chopped,2 tomatoes, chopped. 3)1 tbsp ginger paste. 4)1 tbsp garlic paste. 5)2 green chilies, chopped. 6) 1 tsp cumin powder. 7)1 tsp coriander powder. 8)1 tsp turmeric powder. 9)1 tsp chili powder.",
                 "cooking_method": "1. Heat oil in a pan and fry the fish until browned. Remove from the pan and set aside. 2. In the same pan, add the onion and fry until golden brown. 3. Add the tomatoes, ginger paste, garlic paste, green chilies, cumin powder, coriander powder, turmeric powder, chili powder, and salt. Cook for 5-7 minutes. 4. Add the coconut milk and bring to a boil. 5. Add the fish to the pan and simmer for 10-15 minutes. 6. Serve hot with rice.",
