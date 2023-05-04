@@ -7,21 +7,30 @@
         "number_of_recipes": 30,
         "likes": 15000,
         "bio": "Nadia Ahmed is a Bangladeshi chef with 8 years of experience in cooking traditional and modern dishes. She is known for her unique flavor combinations and creative plating techniques. In her free time, she enjoys reading books and practicing yoga.",
-        "recipe_Img1": "https://foodfusion.com/wp-content/uploads/2019/01/Kachay-Gosht-ki-Biryani-Recipe-by-Food-fusion-5.jpg",
-        "recipe_name1": "Bangladeshi Chicken Biryani",
-        "ingredients1": "1.1 lb bone-in chicken pieces . 2. 2 cups basmati rice 3 tbsp ghee . 3. 1 large onion,sliced. 4. 1 tbsp ginger paste,1 tbsp garlic paste. 5. 2 tbsp biryani masala. 6. 2 green chilies. 7. chopped,1/4 cup yogurt. 8. 2 cups water. 9. 1/2 cup fried onions. 10. 1/4 cup chopped cilantro. 11. 1/4 cup mint leaves,salt, to taste",
-        "cooking_method1": "1. Soak the basmati rice in water for 30 minutes. 2. Heat ghee in a pot and fry the onion until golden brown. 3. Add the chicken, ginger paste, garlic paste, biryani masala, green chilies, and salt. Cook for 5 minutes. 4. Add the yogurt and cook for another 5 minutes. 5. Drain the rice and add it to the pot. 6. Add water and bring to a boil. 7. Lower the heat, cover the pot, and cook for 20-25 minutes. 8. Garnish with fried onions, cilantro, and mint leaves.",
-        "rating1": 4.8,
-        "recipe_Img2": "https://somethingiscooking.com/wp-content/uploads/2017/01/BengaliFishCurry2.jpg",
-        "recipe_name2": "Bangladeshi Fish Curry",
-        "ingredients2": "1) 1 lb fish, cut into pieces . 2) 1 onion, chopped,2 tomatoes, chopped. 3)1 tbsp ginger paste. 4)1 tbsp garlic paste. 5)2 green chilies, chopped. 6) 1 tsp cumin powder. 7)1 tsp coriander powder. 8)1 tsp turmeric powder. 9)1 tsp chili powder. 10)1 cup coconut milk. 11)2 tbsp oil. 12)salt, to taste",
-        "cooking_method2": "1. Heat oil in a pan and fry the fish until browned. Remove from the pan and set aside. 2. In the same pan, add the onion and fry until golden brown. 3. Add the tomatoes, ginger paste, garlic paste, green chilies, cumin powder, coriander powder, turmeric powder, chili powder, and salt. Cook for 5-7 minutes. 4. Add the coconut milk and bring to a boil. 5. Add the fish to the pan and simmer for 10-15 minutes. 6. Serve hot with rice.",
-        "rating2": 4.7,
-        "recipe_Img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS72SaWJhVOqtsfIzqZbrSwlN48ia7PUuxAlLU-zBORbFhylWOsbIcDNl5_5j7dOkmmAs&usqp=CAU",
-        "recipe_name3": "Shorshe Ilish (Mustard Hilsa)",
-        "ingredients3": "1)4 pieces of Hilsa fish. 2) 1 tablespoon mustard seeds.3)1 tablespoon poppy seeds. 4)1 tablespoon turmeric powder. 5)2 green chilies. 6) slit,1/2 teaspoon nigella seeds. 7)1/2 teaspoon salt . 8)2 tablespoons mustard oil",
-        "cooking_method3": "1. Wash the Hilsa fish pieces thoroughly and pat dry.\n2. Grind mustard seeds, poppy seeds, and turmeric powder into a smooth paste.\n3. Add water to the paste to make it thin.\n4. Heat mustard oil in a pan and add nigella seeds.\n5. Once the seeds start to splutter, add the green chilies.\n6. Add the mustard-poppy-turmeric paste to the pan and cook for 2-3 minutes.\n7. Add salt and 1 cup of water and let the mixture come to a boil.\n8. Add the Hilsa fish pieces to the pan and cook for 7-8 minutes on medium heat, making sure to turn the pieces over gently.\n9. Serve hot with steamed rice.",
-        "rating3": 4.8
+        "recipes": [
+            {
+                "recipe_ID":11,
+                "recipe_name": "Bangladeshi Chicken Biryani",
+                "ingredients":  "1.1 lb bone-in chicken pieces . 2. 2 cups basmati rice 3 tbsp ghee . 3. 1 large onion,sliced. 4. 1 tbsp ginger paste,1 tbsp garlic paste. 5. 2 tbsp biryani masala. 6. 2 green chilies. 7. chopped,1/4 cup yogurt. 8. 2 cups water. 9. 1/2 cup fried onions. 10. 1/4 cup chopped cilantro. 11. 1/4 cup mint leaves,salt, to taste",
+                "cooking_method": "1. Soak the basmati rice in water for 30 minutes. 2. Heat ghee in a pot and fry the onion until golden brown. 3. Add the chicken, ginger paste, garlic paste, biryani masala, green chilies, and salt. Cook for 5 minutes. 4. Add the yogurt and cook for another 5 minutes. 5. Drain the rice and add it to the pot. 6. Add water and bring to a boil. 7. Lower the heat, cover the pot, and cook for 20-25 minutes. 8. Garnish with fried onions, cilantro, and mint leaves.",
+                "rating": 4.8
+            },
+            {
+                "recipe_ID":12,
+                "recipe_name": "Bangladeshi Fish Curry",
+                "ingredients":"1) 1 lb fish, cut into pieces . 2) 1 onion, chopped,2 tomatoes, chopped. 3)1 tbsp ginger paste. 4)1 tbsp garlic paste. 5)2 green chilies, chopped. 6) 1 tsp cumin powder. 7)1 tsp coriander powder. 8)1 tsp turmeric powder. 9)1 tsp chili powder.",
+                "cooking_method": "1. Heat oil in a pan and fry the fish until browned. Remove from the pan and set aside. 2. In the same pan, add the onion and fry until golden brown. 3. Add the tomatoes, ginger paste, garlic paste, green chilies, cumin powder, coriander powder, turmeric powder, chili powder, and salt. Cook for 5-7 minutes. 4. Add the coconut milk and bring to a boil. 5. Add the fish to the pan and simmer for 10-15 minutes. 6. Serve hot with rice.",
+                "rating": 4.7
+            },
+            {
+                "recipe_ID":13,
+                "recipe_Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS72SaWJhVOqtsfIzqZbrSwlN48ia7PUuxAlLU-zBORbFhylWOsbIcDNl5_5j7dOkmmAs&usqp=CAU",
+                "recipe_name": "Shorshe Ilish (Mustard Hilsa)",
+                "ingredients": "1)4 pieces of Hilsa fish. 2) 1 tablespoon mustard seeds.3)1 tablespoon poppy seeds. 4)1 tablespoon turmeric powder. 5)2 green chilies. 6) slit,1/2 teaspoon nigella seeds. 7)1/2 teaspoon salt . 8)2 tablespoons mustard oil",
+                "cooking_method": "1. Wash the Hilsa fish pieces thoroughly and pat dry.\n2. Grind mustard seeds, poppy seeds, and turmeric powder into a smooth paste.\n3. Add water to the paste to make it thin.\n4. Heat mustard oil in a pan and add nigella seeds.\n5. Once the seeds start to splutter, add the green chilies.\n6. Add the mustard-poppy-turmeric paste to the pan and cook for 2-3 minutes.\n7. Add salt and 1 cup of water and let the mixture come to a boil.",
+                "rating": 4.8
+            }
+        ]
     },
     {
         "_id": 2,
@@ -31,21 +40,31 @@
         "number_of_recipes": 12,
         "likes": 15000,
         "bio": "Nadia Ahmed is a Bangladeshi chef with 8 years of experience in cooking traditional and modern dishes. She is known for her unique flavor combinations and creative plating techniques. In her free time, she enjoys reading books and practicing yoga.",
-        "recipe_Img1": "https://foodfusion.com/wp-content/uploads/2019/01/Kachay-Gosht-ki-Biryani-Recipe-by-Food-fusion-5.jpg",
-        "recipe_name1": "Bangladeshi Chicken Biryani",
-        "ingredients1": "1)1 lb bone-in chicken pieces. 2) 2 cups basmati rice. 3)3 tbsp ghee. 4)1 large onion, sliced. 5)1 tbsp ginger paste. 6)1 tbsp garlic paste. 6) 2 tbsp biryani masala.7)2 green chilies, chopped",
-        "cooking_method1": "1. Soak the basmati rice in water for 30 minutes. 2. Heat ghee in a pot and fry the onion until golden brown. 3. Add the chicken, ginger paste, garlic paste, biryani masala, green chilies, and salt. Cook for 5 minutes. 4. Add the yogurt and cook for another 5 minutes. 5. Drain the rice and add it to the pot. 6. Add water and bring to a boil. 7. Lower the heat, cover the pot, and cook for 20-25 minutes. 8. Garnish with fried onions, cilantro, and mint leaves.",
-        "rating1": 4.8,
-        "recipe_Img2": "https://somethingiscooking.com/wp-content/uploads/2017/01/BengaliFishCurry2.jpg",
-        "recipe_name2": "Bangladeshi Fish Curry",
-        "ingredients2": "1)1 lb fish, cut into pieces. 2)1 onion, chopped .3)2 tomatoes, chopped. 4)1 tbsp ginger paste. 5)1 tbsp garlic paste. 6) 2 green chilies, chopped. 7) 1 tsp cumin powder. 8) 1 tsp coriander powder. 9) 1 tsp turmeric powder",
-        "cooking_method2": "1. Heat oil in a pan and fry the fish until browned. Remove from the pan and set aside. 2. In the same pan, add the onion and fry until golden brown. 3. Add the tomatoes, ginger paste, garlic paste, green chilies, cumin powder, coriander powder, turmeric powder, chili powder, and salt. Cook for 5-7 minutes. 4. Add the coconut milk and bring to a boil. 5. Add the fish to the pan and simmer for 10-15 minutes. 6. Serve hot with rice.",
-        "rating2": 4.7,
-        "recipe_Img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS72SaWJhVOqtsfIzqZbrSwlN48ia7PUuxAlLU-zBORbFhylWOsbIcDNl5_5j7dOkmmAs&usqp=CAU",
-        "recipe_name3": "Shorshe Ilish (Mustard Hilsa)",
-        "ingredients3": "1)4 pieces of Hilsa fish. 2)1 tablespoon mustard seeds. 3)1 tablespoon poppy seeds. 4)1 tablespoon turmeric powder. 5)2 green chilies, slit. 6)1/2 teaspoon nigella seeds.7)1/2 teaspoon salt",
-        "cooking_method3": "1. Wash the Hilsa fish pieces thoroughly and pat dry.\n2. Grind mustard seeds, poppy seeds, and turmeric powder into a smooth paste.\n3. Add water to the paste to make it thin.\n4. Heat mustard oil in a pan and add nigella seeds.\n5. Once the seeds start to splutter, add the green chilies.\n6. Add the mustard-poppy-turmeric paste to the pan and cook for 2-3 minutes.\n7. Add salt and 1 cup of water and let the mixture come to a boil.\n8. Add the Hilsa fish pieces to the pan and cook for 7-8 minutes on medium heat, making sure to turn the pieces over gently.\n9. Serve hot with steamed rice.",
-        "rating3": 4.8
+        "recipes": [
+            {
+                "recipe_ID":14,
+        "recipe_Img": "https://foodfusion.com/wp-content/uploads/2019/01/Kachay-Gosht-ki-Biryani-Recipe-by-Food-fusion-5.jpg",
+        "recipe_name": "Bangladeshi Chicken Biryani",
+        "ingredients": "1)1 lb bone-in chicken pieces. 2) 2 cups basmati rice. 3)3 tbsp ghee. 4)1 large onion, sliced. 5)1 tbsp ginger paste. 6)1 tbsp garlic paste. 6) 2 tbsp biryani masala.7)2 green chilies, chopped 8) salt ",
+        "cooking_method": "1. Soak the basmati rice in water for 30 minutes. 2. Heat ghee in a pot and fry the onion until golden brown. 3. Add the chicken, ginger paste, garlic paste, biryani masala, green chilies, and salt. Cook for 5 minutes. 4. Add the yogurt and cook for another 5 minutes. 5. Drain the rice and add it to the pot. 6. Add water and bring to a boil. 7. Lower the heat, cover the pot, and cook for 20-25 minutes. ",
+        "rating": 4.8
+            },
+            {
+                "recipe_ID":15,
+        "recipe_Img": "https://somethingiscooking.com/wp-content/uploads/2017/01/BengaliFishCurry2.jpg",
+        "recipe_name": "Bangladeshi Fish Curry",
+        "ingredients": "1)1 lb fish, cut into pieces. 2)1 onion, chopped .3)2 tomatoes, chopped. 4)1 tbsp ginger paste. 5)1 tbsp garlic paste. 6) 2 green chilies, chopped. 7) 1 tsp cumin powder.",
+        "cooking_method": "1. Heat oil in a pan and fry the fish until browned. Remove from the pan and set aside. 2. In the same pan, add the onion and fry until golden brown. 3. Add the tomatoes, ginger paste, garlic paste, green chilies, cumin powder, coriander powder, turmeric powder, chili powder, and salt. Cook for 5-7 minutes. 4. Add the coconut milk and bring to a boil. 5. Add the fish to the pan and simmer for 10-15 minutes. 6. Serve hot with rice.",
+        "rating": 4.7
+        },
+        {
+            "recipe_ID":16,
+        "recipe_Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS72SaWJhVOqtsfIzqZbrSwlN48ia7PUuxAlLU-zBORbFhylWOsbIcDNl5_5j7dOkmmAs&usqp=CAU",
+        "recipe_name": "Shorshe Ilish (Mustard Hilsa)",
+        "ingredients": "1)4 pieces of Hilsa fish. 2)1 tablespoon mustard seeds. 3)1 tablespoon poppy seeds. 4)1 tablespoon turmeric powder. 5)2 green chilies, slit. 6)1/2 teaspoon nigella seeds.7)1/2 teaspoon salt",
+        "cooking_method": "1. Wash the Hilsa fish pieces thoroughly and pat dry.\n2. Grind mustard seeds, poppy seeds, and turmeric powder into a smooth paste.\n3. Add water to the paste to make it thin.\n4. Heat mustard oil in a pan and add nigella seeds.\n5. Once the seeds start to splutter, add the green chilies.\n6. Add the mustard-poppy-turmeric paste to the pan and cook for 2-3 minutes.\n7. Add salt and 1 cup of water and let the mixture come to a boil.",
+        "rating": 4.8
+        }]
     },
     {
         "_id": 3,
@@ -55,21 +74,30 @@
         "number_of_recipes": 20,
         "likes": 150,
         "bio": "Sadia Rahman is a well-known chef who specializes in traditional Bangladeshi cuisine. She has been in the industry for over 10 years and has won several awards for her culinary skills. Her passion for cooking began at a young age, and she has since devoted her life to mastering the art of traditional Bangladeshi cooking.",
-        "recipe_Img1":"https://c.ndtvimg.com/2021-01/vsafkf5_chapli-kebab_625x300_08_January_21.jpg",
-        "recipe_name1": "Chapli Kabab",
-        "ingredients1": "1. 1 lb ground beef\n2. 1 onion, finely chopped\n3. 1 tomato, finely chopped\n4. 2 tbsp coriander, chopped\n5. 2 tbsp mint, chopped\n6. 1 tbsp ginger-garlic paste\n7. 1 tsp cumin powder\n8. 1 tsp coriander powder\n9. 1 tsp red chili powder\n10. 1 egg, beaten\n11. Salt to taste\n12. Oil for frying",
-        "cooking_method1": "1. In a bowl, mix together the ground beef, chopped onion, tomato, coriander, mint, ginger-garlic paste, cumin powder, coriander powder, red chili powder, beaten egg, and salt to taste. \n2. Form the mixture into flat, round patties. \n3. Heat oil in a frying pan and fry the patties on medium heat until browned on both sides. \n4. Serve hot with naan and chutney.",
-        "rating1": 4.8,
-        "recipe_Img2": "https://asiandelicasy.com/wp-content/uploads/2022/12/IMG_20221128_164910-scaled.jpg",
-        "recipe_name2": "Chingri Malai Curry",
-        "ingredients2": "1. 500g prawns\n2. 1 cup coconut milk\n3. 1 onion, chopped\n4. 1 tsp ginger paste\n5. 1 tsp garlic paste\n6. 1/2 tsp turmeric powder\n7. 1/2 tsp red chili powder\n8. 2 tbsp vegetable oil\n9. Salt to taste",
-        "cooking_method2": "1. Heat oil in a pan and sauté the onions until translucent.\n2. Add the ginger and garlic paste and fry for a minute.\n3. Add turmeric powder, red chili powder, and salt. Mix well.\n4. Add the prawns and cook for a few minutes until they turn pink.\n5. Add the coconut milk and simmer for 10 minutes.\n6. Serve hot with steamed rice.",
-        "rating2": 4.7,
-        "recipe_Img3":"https://www.archanaskitchen.com/images/archanaskitchen/1-Author/shaheen_ali/Bhuna_Murgh_.jpg",
-        "recipe_name3": "Bhuna Chicken",
-        "ingredients3": "1. 500g chicken, cut into pieces\n2. 1 onion, finely chopped\n3. 1/2 cup yogurt\n4. 2 tbsp ginger paste\n5. 2 tbsp garlic paste\n6. 1 tsp cumin powder\n7. 1 tsp coriander powder\n8. 1 tsp garam masala powder\n9. 1/2 tsp turmeric powder\n10. 1/2 tsp red chili powder\n11. 2 tbsp vegetable oil\n12. Salt to taste",
-        "cooking_method3": "1. Heat oil in a pan and sauté the onions until golden brown.\n2. Add the ginger and garlic paste and fry for a minute.\n3. Add cumin powder, coriander powder, garam masala powder, turmeric powder, and red chili powder. Fry for another minute.\n4. Add the chicken pieces and fry until they turn golden brown.\n5. Add the yogurt and salt. Mix well and cook for 5-7 minutes.\n6. Cover the pan and let the chicken cook on low heat for another 10-15 minutes, stirring occasionally. Add water if necessary.\n7. Garnish with chopped coriander leaves and serve hot with rice or roti.",
-        "rating3": 4.5
+        "recipes": [
+            {
+                "recipe_ID":17,
+        "recipe_Img":"https://c.ndtvimg.com/2021-01/vsafkf5_chapli-kebab_625x300_08_January_21.jpg",
+        "recipe_name": "Chapli Kabab",
+        "ingredients": "1. 1 lb ground beef\n2. 1 onion, finely chopped\n3. 1 tomato, finely chopped\n4. 2 tbsp coriander, chopped\n5. 2 tbsp mint, chopped\n6. 1 tbsp ginger-garlic paste\n7. 1 tsp cumin powder",
+        "cooking_method": "1. In a bowl, mix together the ground beef, chopped onion, tomato, coriander, mint, ginger-garlic paste, cumin powder, coriander powder, red chili powder, beaten egg, and salt to taste. \n2. Form the mixture into flat, round patties. \n3. Heat oil in a frying pan and fry the patties on medium heat until browned on both sides. \n4. Serve hot with naan and chutney.",
+        "rating": 4.8
+            },
+            {
+                "recipe_ID":18,
+        "recipe_Img": "https://asiandelicasy.com/wp-content/uploads/2022/12/IMG_20221128_164910-scaled.jpg",
+        "recipe_name": "Chingri Malai Curry",
+        "ingredients": "1. 500g prawns\n2. 1 cup coconut milk\n3. 1 onion, chopped\n4. 1 tsp ginger paste\n5. 1 tsp garlic paste\n6. 1/2 tsp turmeric powder\n7. 1/2 tsp red chili powder\n8. 2 tbsp vegetable oil\n9. Salt to taste",
+        "cooking_method": "1. Heat oil in a pan and sauté the onions until translucent.\n2. Add the ginger and garlic paste and fry for a minute.\n3. Add turmeric powder, red chili powder, and salt. Mix well.\n4. Add the prawns and cook for a few minutes until they turn pink.\n5. Add the coconut milk and simmer for 10 minutes.\n6. Serve hot with steamed rice.",
+        "rating": 4.7
+            },{
+                "recipe_ID":19,
+        "recipe_Img":"https://www.archanaskitchen.com/images/archanaskitchen/1-Author/shaheen_ali/Bhuna_Murgh_.jpg",
+        "recipe_name": "Bhuna Chicken",
+        "ingredients": "1. 500g chicken, cut into pieces\n2. 1 onion, finely chopped\n3. 1/2 cup yogurt\n4. 2 tbsp ginger paste\n5. 2 tbsp garlic paste\n6. 1 tsp cumin powder\n7. 1 tsp coriander powder",
+        "cooking_method": "1. Heat oil in a pan and sauté the onions until golden brown.\n2. Add the ginger and garlic paste and fry for a minute.\n3. Add cumin powder, coriander powder, garam masala powder, turmeric powder, and red chili powder. Fry for another minute.\n4. Add the chicken pieces and fry until they turn golden brown.\n5. Add the yogurt and salt. Mix well and cook for 5-7 minutes.\n6. Cover the pan and let the chicken cook on low heat for another 10-15 minutes, stirring occasionally. Add water if necessary.\n7. Garnish with chopped coriander leaves and serve hot with rice or roti.",
+        "rating": 4.5}
+            ]
     },
     {
         "_id": 4,
@@ -79,21 +107,29 @@
         "number_of_recipes": 25,
         "likes": 1500,
         "bio": "Mehreen Sultana is a skilled chef specializing in the rich and flavorful cuisine of Bangladesh. With over 12 years of experience in the culinary arts, she has developed a diverse array of 30 traditional recipes, each one bursting with authentic flavor. Her passion for food is matched only by her love for sharing it with others. Follow Mehreen for unforgettable recipes and expert tips!",
-        "recipe_Img1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS72SaWJhVOqtsfIzqZbrSwlN48ia7PUuxAlLU-zBORbFhylWOsbIcDNl5_5j7dOkmmAs&usqp=CAU",
-        "recipe_name1": "Shorshe Ilish",
-        "ingredients1": "1. 1 kg ilish fish, cut into pieces\n2. 3 onions, sliced\n3. 3 tbsp mustard oil\n4. 1 tbsp black mustard seeds\n5. 1 tbsp white mustard seeds\n6. 1 tbsp turmeric powder\n7. 1 tbsp red chili powder\n8. Salt, to taste\n9. 2 cups water\n10. 1/4 cup chopped cilantro, for garnish",
-        "cooking_method1": "1. Grind the mustard seeds to a paste using a mortar and pestle or a food processor.\n2. Heat the mustard oil in a large pan over medium-high heat. Add onions and cook until browned. Add the ground mustard paste, turmeric powder, red chili powder, and salt. Cook for 2-3 minutes.\n3. Add water and bring to a boil. Add the ilish fish and stir gently.\n4. Reduce heat to low and cover the pan. Cook for 10-12 minutes, or until the fish is fully cooked.\n5. Garnish with chopped cilantro. Serve hot with steamed rice.",
-        "rating1": 4.2,
-        "recipe_Img2": "https://foodfusion.com/wp-content/uploads/2019/01/Kachay-Gosht-ki-Biryani-Recipe-by-Food-fusion-5.jpg",
-        "recipe_name2": "Biryani",
-        "ingredients2": "1)1 lb bone-in chicken pieces. 2) 2 cups basmati rice. 3)3 tbsp ghee. 4)1 large onion, sliced. 5)1 tbsp ginger paste. 6)1 tbsp garlic paste. 6) 2 tbsp biryani masala.7)2 green chilies, chopped",
-        "cooking_method2": "1. Rinse the rice in cold water and soak in water for 30 minutes.\n2. Heat ghee and vegetable oil in a large pot over medium-high heat. Add bay leaves, cardamom pods, cloves, and cinnamon sticks. Cook for 1-2 minutes.\n3. Add onions and cook until browned. Add ginger paste, garlic paste, cumin powder, coriander powder, garam masala, red chili powder, turmeric powder, and salt. Cook for 2-3 minutes.\n4. Add tomatoes and cook until softened. Add chicken and stir gently. Cook for 10-12 minutes.\n5. Add yogurt and mix well. Drain the soaked rice and add it to the pot. Add water and bring to a boil.\n6. Reduce heat to low and cover the pot. Cook for 15-20 minutes, or until the rice is fully cooked.\n7. Garnish with chopped cilantro. Serve hot.",
-        "rating2": 4.5,
-        "recipe_Img3":"https://thespicemess.com/wp-content/uploads/2021/10/Roti-Soft-Chapati-12-1-500x500.jpg",
-        "recipe_name3": "Chapati",
-        "ingredients3": "1. 2 cups whole wheat flour\n2. 1 tsp salt\n3. 1 tbsp vegetable oil\n4. 1 cup lukewarm water\n 5.salad",
-        "cooking_method3": "1. In a large bowl, mix together flour and salt.\n2. Add vegetable oil and mix well. Gradually add water, mixing until the dough comes together.\n3. Knead the dough for 5-10 minutes, or until smooth.\n4. Divide the dough into small balls, about the size of a golf ball.\n5. Roll out each ball into a thin, circular shape.\n6. Heat a griddle or frying pan over medium-high heat. Cook the chapati on each side for 1-2 minutes, or until lightly browned.\n7. Serve hot with your favorite curry or chutney.",
-        "rating3": 4.2
+        "recipes": [
+            {
+                "recipe_ID":20,
+        "recipe_Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS72SaWJhVOqtsfIzqZbrSwlN48ia7PUuxAlLU-zBORbFhylWOsbIcDNl5_5j7dOkmmAs&usqp=CAU",
+        "recipe_name": "Shorshe Ilish",
+        "ingredients": "1. 1 kg ilish fish, cut into pieces\n2. 3 onions, sliced\n3. 3 tbsp mustard oil\n4. 1 tbsp black mustard seeds\n5. 1 tbsp white mustard seeds\n6. 1 tbsp turmeric powder\n7. 1 tbsp red chili powder\n8. Salt, to taste\n9. 2 cups water\n10. 1/4 cup chopped cilantro, for garnish",
+        "cooking_method": "1. Grind the mustard seeds to a paste using a mortar and pestle or a food processor.\n2. Heat the mustard oil in a large pan over medium-high heat. Add onions and cook until browned. Add the ground mustard paste, turmeric powder, red chili powder, and salt. Cook for 2-3 minutes.\n3. Add water and bring to a boil. Add the ilish fish and stir gently.\n4. Reduce heat to low and cover the pan. Cook for 10-12 minutes, or until the fish is fully cooked.\n5. Garnish with chopped cilantro. Serve hot with steamed rice.",
+        "rating": 4.2
+            },{
+                "recipe_ID":21,
+        "recipe_Img": "https://foodfusion.com/wp-content/uploads/2019/01/Kachay-Gosht-ki-Biryani-Recipe-by-Food-fusion-5.jpg",
+        "recipe_name": "Biryani",
+        "ingredients": "1)1 lb bone-in chicken pieces. 2) 2 cups basmati rice. 3)3 tbsp ghee. 4)1 large onion, sliced. 5)1 tbsp ginger paste. 6)1 tbsp garlic paste. 6) 2 tbsp biryani masala.7)2 green chilies, chopped",
+        "cooking_method": "1. Rinse the rice in cold water and soak in water for 30 minutes.\n2. Heat ghee and vegetable oil in a large pot over medium-high heat. Add bay leaves, cardamom pods, cloves, and cinnamon sticks. Cook for 1-2 minutes.\n3. Add onions and cook until browned. Add ginger paste, garlic paste, cumin powder, coriander powder, garam masala, red chili powder, turmeric powder, and salt. Cook for 2-3 minutes.\n4. Add tomatoes and cook until softened. Add chicken and stir gently. Cook for 10-12 minutes.\n5. Add yogurt and mix well. Drain the soaked rice and add it to the pot.",
+        "rating": 4.5
+            },{
+                "recipe_ID":22,
+        "recipe_Img":"https://thespicemess.com/wp-content/uploads/2021/10/Roti-Soft-Chapati-12-1-500x500.jpg",
+        "recipe_name": "Chapati",
+        "ingredients": "1. 2 cups whole wheat flour\n2. 1 tsp salt\n3. 1 tbsp vegetable oil\n4. 1 cup lukewarm water\n 5.salad",
+        "cooking_method": "1. In a large bowl, mix together flour and salt.\n2. Add vegetable oil and mix well. Gradually add water, mixing until the dough comes together.\n3. Knead the dough for 5-10 minutes, or until smooth.\n4. Divide the dough into small balls, about the size of a golf ball.\n5. Roll out each ball into a thin, circular shape.\n6. Heat a griddle or frying pan over medium-high heat. Cook the chapati on each side for 1-2 minutes, or until lightly browned.\n7. Serve hot with your favorite curry or chutney.",
+        "rating": 4.2}
+            ]
     },
     {
         "_id": 5,
@@ -103,21 +139,28 @@
         "number_of_recipes": 50,
         "likes": 2000,
         "bio": "Nazia Ahmed is a renowned chef specializing in Bangladeshi cuisine. With over 15 years of experience in the culinary arts, she has developed a repertoire of over 50 traditional recipes, each one crafted with care and authenticity. Her passion for food is matched only by her love for sharing it with others. Follow Nazia for mouth-watering recipes and expert tips!",
-        "recipe_Img1": "https://foodfusion.com/wp-content/uploads/2019/01/Kachay-Gosht-ki-Biryani-Recipe-by-Food-fusion-5.jpg",
-        "recipe_name1": "Chicken Biryani",
-        "ingredients1": "1. 1 kg chicken, cut into pieces\n2. 2 cups basmati rice, soaked for 30 minutes\n3. 2 onions, sliced\n4. 3 tbsp vegetable oil\n5. 1 tbsp ghee\n6. 1 cup yogurt\n7. 1 tbsp ginger paste\n8. 1 tbsp garlic paste\n9. 2 bay leaves\n10. 2 cinnamon sticks\n11. 4 cardamom pods\n12. 4 cloves\n13. 1 tsp cumin powder\n14. 1 tsp coriander powder\n15. 1 tsp garam masala\n16. 1 tsp red chili powder\n17. 1/2 tsp turmeric powder\n18. Salt, to taste\n19. 4 cups water\n20. 1/4 cup fried onions, for garnish\n21. 1/4 cup chopped cilantro, for garnish\n22. 1 kg ilish fish, cut into pieces\n23. 3 onions, sliced\n24. 3 tbsp mustard oil\n25. 1 tbsp black mustard seeds\n26. 1 tbsp white mustard seeds\n27. 1 tbsp turmeric powder\n28. 1 tbsp red chili powder\n29. Salt, to taste\n30. 2 cups water\n31. 1/4 cup chopped cilantro, for garnish\n32. 1 kg mutton, cut into pieces\n33. 4 onions, sliced\n34. 4 tomatoes, chopped\n35. 1 cup plain yogurt\n36. 1/2 cup ghee\n37. 1/4 cup vegetable oil\n38. 2 bay leaves\n39. 4 cardamom pods\n40. 4 cloves\n41. 2 cinnamon sticks\n42. 1 tbsp ginger paste\n",
-        "cooking_method1": "1. Heat oil and ghee in a large pot over medium-high heat. Add onions and cook until browned. Add chicken and cook until browned on all sides. Add ginger paste, garlic paste, bay leaves, cinnamon sticks, cardamom pods, and cloves. Cook for 1-2 minutes.\n2. Add cumin powder, coriander powder, garam masala, red chili powder, turmeric powder, and salt. Cook for 2-3 minutes.\n3. Add yogurt and cook until the chicken is almost tender. Add soaked rice, water, and salt. Stir gently and bring to a boil.\n4. Reduce heat to low and cover the pot. Cook for 20-25 minutes, or until the rice and chicken are fully cooked.\n5. Garnish with fried onions and chopped cilantro. Serve hot.",
-        "rating1": 4.5,
-        "recipe_Img2":"https://nishkitchen.com/wp-content/uploads/2019/04/Indian-Beef-Curry-1B-480x360.jpg",
-        "recipe_name2": "Beef Curry",
-        "ingredients2": "1. 1 kg beef, cut into cubes\n2. 3 onions, sliced\n3. 3 tomatoes, chopped\n4. 2 tbsp vegetable oil\n5. 1 tbsp ginger paste\n6. 1 tbsp garlic paste\n7. 2 bay leaves\n8. 2 cinnamon sticks\n9. 4 cardamom pods\n10. 4 cloves\n11. 1 tsp cumin powder\n12. 1 tsp coriander powder\n13. 1 tsp garam masala\n14. 1 tsp red chili powder\n15. 1/2 tsp turmeric powder\n16. Salt, to taste\n17. 2 cups water\n18. 1/4 cup chopped cilantro, for garnish",
-        "cooking_method2": "1. Heat oil in a large pot over medium heat. Add bay leaves, cinnamon sticks, cardamom pods, and cloves. Cook for 1-2 minutes.\n2. Add onions and cook until they become translucent. Add ginger paste, garlic paste, cumin powder, coriander powder, garam masala, red chili powder, turmeric powder, and salt. Cook for 2-3 minutes.\n3. Add tomatoes and cook until they soften. Add beef and stir gently. Cook for 10-12 minutes.\n4. Add water and bring to a boil. Reduce heat to low and cover the pot. Cook for 30-40 minutes, or until the beef is fully cooked.\n5. Garnish with chopped cilantro. Serve hot with rice or chapati.",
-        "rating2": 4.7,
-        "recipe_Img3": "https://somethingiscooking.com/wp-content/uploads/2017/01/BengaliFishCurry2.jpg",
-        "recipe_name3": "Fish Kalia",
-        "ingredients3": "1. 1 kg fish, cut into pieces\n2. 3 onions, sliced\n3. 3 tomatoes, chopped\n4. 2 tbsp vegetable oil\n5. 1 tbsp ginger paste\n6. 1 tbsp garlic paste\n7. 2 bay leaves\n8. 2 cinnamon sticks\n9. 4 cardamom pods\n10. 4 cloves\n11. 1 tsp cumin powder\n12. 1 tsp coriander powder\n13. 1 tsp garam masala\n14. 1 tsp red chili powder\n15. 1/2 tsp turmeric powder\n16. Salt, to taste\n17. 2 cups water\n18. 1/4 cup chopped cilantro, for garnish",
-        "cooking_method3": "1. Heat oil in a large pot over medium-high heat. Add onions and cook until browned. Add ginger paste, garlic paste, bay leaves, cinnamon sticks, cardamom pods, and cloves. Cook for 1-2 minutes.\n2. Add cumin powder, coriander powder, garam masala, red chili powder, turmeric powder, and salt. Cook for 2-3 minutes.\n3. Add tomatoes and cook until softened. Add fish and stir gently. Add water and bring to a boil.\n4. Reduce heat to low and cover the pot. Cook for 10-12 minutes, or until the fish is fully cooked.\n5. Garnish with chopped cilantro. Serve hot.",
-        "rating3": 4.0
+
+        "recipes": [
+            {
+                "recipe_ID":23,
+        "recipe_Img": "https://foodfusion.com/wp-content/uploads/2019/01/Kachay-Gosht-ki-Biryani-Recipe-by-Food-fusion-5.jpg",
+        "recipe_name": "Chicken Biryani",
+        "ingredients": "1. 1 kg chicken, cut into pieces\n2. 2 cups basmati rice, soaked for 30 minutes\n3. 2 onions, sliced\n4. 3 tbsp vegetable oil\n5. 1 tbsp ghee\n6. 1 cup yogurt\n7. 1 tbsp ginger paste\n8. 1 tbsp garlic paste\n",
+        "cooking_method": "1. Heat oil and ghee in a large pot over medium-high heat. Add onions and cook until browned. Add chicken and cook until browned on all sides. Add ginger paste, garlic paste, bay leaves, cinnamon sticks, cardamom pods, and cloves. Cook for 1-2 minutes.\n2. Add cumin powder, coriander powder, garam masala, red chili powder, turmeric powder, and salt. Cook for 2-3 minutes.\n3. Add yogurt and cook until the chicken is almost tender. Add soaked rice, water, and salt. Stir gently and bring to a boil.",
+        "rating": 4.5
+            },{
+                "recipe_ID":24,
+        "recipe_Img":"https://nishkitchen.com/wp-content/uploads/2019/04/Indian-Beef-Curry-1B-480x360.jpg",
+        "recipe_name": "Beef Curry",
+        "ingredients": "1. 1 kg beef, cut into cubes\n2. 3 onions, sliced\n3. 3 tomatoes, chopped\n4. 2 tbsp vegetable oil\n5. 1 tbsp ginger paste\n6. 1 tbsp garlic paste\n7. 2 bay leaves\n8. 2 cinnamon sticks\n9. 4 cardamom pods\n10. 4 cloves\n11. 1 tsp cumin powder\n12. 1 tsp coriander powder\n13. 1 tsp garam masala\n14. 1 tsp red chili powder\n15. 1/2 tsp turmeric powder\n16. Salt, to taste\n17. 2 cups water\n18. 1/4 cup chopped cilantro, for garnish",
+        "cooking_method": "1. Heat oil in a large pot over medium heat. Add bay leaves, cinnamon sticks, cardamom pods, and cloves. Cook for 1-2 minutes.\n2. Add onions and cook until they become translucent. Add ginger paste, garlic paste, cumin powder, coriander powder, garam masala, red chili powder, turmeric powder, and salt. Cook for 2-3 minutes.\n3. Add tomatoes and cook until they soften. Add beef and stir gently. Cook for 10-12 minutes.\n4. Add water and bring to a boil. Reduce heat to low and cover the pot. Cook for 30-40 minutes, or until the beef is fully cooked.\n5. Garnish with chopped cilantro. Serve hot with rice or chapati.",
+        "rating": 4.7},{
+            "recipe_ID":25,
+        "recipe_Img": "https://somethingiscooking.com/wp-content/uploads/2017/01/BengaliFishCurry2.jpg",
+        "recipe_name": "Fish Kalia",
+        "ingredients": "1. 1 kg fish, cut into pieces\n2. 3 onions, sliced\n3. 3 tomatoes, chopped\n4. 2 tbsp vegetable oil\n5. 1 tbsp ginger paste\n6. 1 tbsp garlic paste\n7. 2 bay leaves\n8. 2 cinnamon sticks\n9. 4 cardamom pods\n10. 4 cloves\n11. 1 tsp cumin powder\n12. 1 tsp coriander powder\n13. 1 tsp garam masala\n14. 1 tsp red chili powder\n15. 1/2 tsp turmeric powder\n16. Salt, to taste\n17. 2 cups water\n18. 1/4 cup chopped cilantro, for garnish",
+        "cooking_method": "1. Heat oil in a large pot over medium-high heat. Add onions and cook until browned. Add ginger paste, garlic paste, bay leaves, cinnamon sticks, cardamom pods, and cloves. Cook for 1-2 minutes.\n2. Add cumin powder, coriander powder, garam masala, red chili powder, turmeric powder, and salt. Cook for 2-3 minutes.\n3. Add tomatoes and cook until softened. Add fish and stir gently. Add water and bring to a boil.\n4. Reduce heat to low and cover the pot. Cook for 10-12 minutes, or until the fish is fully cooked.\n5. Garnish with chopped cilantro. Serve hot.",
+        "rating": 4.0}]
     },
     {
         "_id": 6,
@@ -127,20 +170,29 @@
         "number_of_recipes": 70,
         "likes": 500,
         "bio": "Moin Uddin is an award-winning chef from Chittagong, Bangladesh. He has over 15 years of experience in the culinary industry and is known for his creative and flavorful dishes.",
-        "recipe_Img1": "https://asiandelicasy.com/wp-content/uploads/2022/12/IMG_20221128_164910-scaled.jpg",
-        "recipe_name1": "Chingri Malai Curry",
-        "ingredients1": "500g prawns,\n deveined and cleaned,\n 1 cup coconut milk,\n 1 onion, finely chopped,\n 3-4 green chillies, slit, \n1 tsp ginger paste, \n1 tsp garlic paste ",
-        "cooking_method1": "1. Heat oil in a pan and fry the onions until they are translucent.\n2. Add the ginger and garlic paste and fry for another minute.\n3. Add the prawns, turmeric, cumin, coriander, red chilli powder, and salt. Fry for 2-3 minutes.\n4. Add coconut milk and slit green chillies. Mix well and cook for another 5-7 minutes.\n5. Garnish with chopped cilantro and serve hot.",
-        "rating1": 4.5,
-        "recipe_Img2": "https://www.krumpli.co.uk/wp-content/uploads/2020/10/Beef-Bhuna-1.jpg",
-        "recipe_name2": "Beef Bhuna",
-        "ingredients2": "\n1 kg chicken, cut into pieces\n2 cups basmati rice, soaked for 30 minutes\n2 onions, sliced\n3 tbsp vegetable oil\n1 tbsp ghee\n1 cup yogurt\n1 tbsp ginger paste\n1 tbsp garlic paste\n2 bay leaves\n2 cinnamon sticks\n4 cardamom pods\n4 cloves\n1 tsp cumin powder\n1 tsp coriander powder\n1 tsp garam masala\n1 tsp red chili powder\n1/2 tsp turmeric powder\nSalt, to taste\n4 cups water\n1/4 cup fried onions, for garnish\n1/4 cup chopped cilantro, for garnish\n\n500g prawns, deveined and cleaned\n1 cup coconut milk\n1 onion, finely chopped\n3-4 green chillies, slit\n1 tsp ginger paste\n1 tsp garlic paste\n",
-        "cooking_method2": "1. Heat oil in a pan and fry the onions until they are brown.\n2. Add the ginger and garlic paste and fry for another minute.\n3. Add the beef, turmeric, cumin, coriander, red chilli powder, and salt. Fry for 5-7 minutes.\n4. Add the chopped tomato and water. Cover and cook for 30-35 minutes, stirring occasionally.\n5. Garnish with chopped cilantro and serve hot.",
-        "rating2": 4.0,
-        "recipe_Img3": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu1vfkO19ObAFdHvle3bXxCOygq3iM67SNZQ&usqp=CAU",
-        "recipe_name3": "Dhaka Style Chicken Roast",
-        "ingredients3": "500g prawns,\n deveined and cleaned,\n1 cup coconut milk,\n1 onion, finely chopped,\n3-4 green chillies, slit,\n1 tsp ginger paste,\n1 tsp garlic paste,\n1 tsp turmeric powder,",
-        "cooking_method3": "1. Mix together the ginger paste, garlic paste, paprika, turmeric powder, cumin powder, coriander powder, red chilli powder, and salt in a small bowl.\n2. Rub the mixture all over the chicken, making sure to get it under the skin as well.\n3. Cover the chicken and let it marinate in the refrigerator for at least 2 hours, or overnight.\n4. Preheat the oven to 200°C.\n5. Heat the mustard oil in a large pan over medium heat.\n6. Add the chicken to the pan and cook until browned on all sides.\n7. Transfer the chicken to a roasting pan and roast in the preheated oven for 40-45 minutes, or until the chicken is cooked through and the juices run clear.\n8. Remove the chicken from the oven and let it rest for 10 minutes.\n9. Squeeze lemon juice over the chicken and garnish with chopped cilantro before serving.",
-        "rating3": 4.5
+
+        "recipes": [
+            {
+                "recipe_ID":26,
+        "recipe_Img": "https://asiandelicasy.com/wp-content/uploads/2022/12/IMG_20221128_164910-scaled.jpg",
+        "recipe_name": "Chingri Malai Curry",
+        "ingredients": "500g prawns,\n deveined and cleaned,\n 1 cup coconut milk,\n 1 onion, finely chopped,\n 3-4 green chillies, slit, \n1 tsp ginger paste, \n1 tsp garlic paste ",
+        "cooking_method": "1. Heat oil in a pan and fry the onions until they are translucent.\n2. Add the ginger and garlic paste and fry for another minute.\n3. Add the prawns, turmeric, cumin, coriander, red chilli powder, and salt. Fry for 2-3 minutes.\n4. Add coconut milk and slit green chillies. Mix well and cook for another 5-7 minutes.\n5. Garnish with chopped cilantro and serve hot.",
+        "rating": 4.5
+        },{
+            "recipe_ID":27,
+        "recipe_Img": "https://www.krumpli.co.uk/wp-content/uploads/2020/10/Beef-Bhuna-1.jpg",
+        "recipe_name": "Beef Bhuna",
+        "ingredients": "\n1 kg chicken, cut into pieces\n2 cups basmati rice, soaked for 30 minutes\n2 onions, sliced\n3 tbsp vegetable oil\n1 tbsp ghee\n1 cup yogurt\n1 tbsp ginger paste\n1 tbsp garlic paste\n2 bay leaves\n2 cinnamon sticks\n4 cardamom pods\n4 cloves\n1 tsp cumin powder\n1 tsp coriander powder\n1 tsp garam masala\n1 tsp red chili powder\n1/2 tsp turmeric powder\nSalt, to taste\n4 cups water\n1/4 cup fried onions, for garnish\n1/4 cup chopped cilantro, for garnish\n",
+        "cooking_method": "1. Heat oil in a pan and fry the onions until they are brown.\n2. Add the ginger and garlic paste and fry for another minute.\n3. Add the beef, turmeric, cumin, coriander, red chilli powder, and salt. Fry for 5-7 minutes.\n4. Add the chopped tomato and water. Cover and cook for 30-35 minutes, stirring occasionally.\n5. Garnish with chopped cilantro and serve hot.",
+        "rating": 4.0},
+        {
+            "recipe_ID":28,
+        "recipe_Img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu1vfkO19ObAFdHvle3bXxCOygq3iM67SNZQ&usqp=CAU",
+        "recipe_name": "Dhaka Style Chicken Roast",
+        "ingredients": "500g prawns,\n deveined and cleaned,\n1 cup coconut milk,\n1 onion, finely chopped,\n3-4 green chillies, slit,\n1 tsp ginger paste,\n1 tsp garlic paste,\n1 tsp turmeric powder,",
+        "cooking_method": "1. Mix together the ginger paste, garlic paste, paprika, turmeric powder, cumin powder, coriander powder, red chilli powder, and salt in a small bowl.\n2. Rub the mixture all over the chicken, making sure to get it under the skin as well.\n3. Cover the chicken and let it marinate in the refrigerator for at least 2 hours, or overnight.\n4. Preheat the oven to 200°C.\n5. Heat the mustard oil in a large pan over medium heat.",
+        "rating": 4.5
+        }]
     }
 ]
