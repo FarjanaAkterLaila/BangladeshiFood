@@ -5,7 +5,7 @@ app.use(cors());
 const port = process.env.PORT || 5000;
 const checfs = require('./data/checfs.json')
 app.get('/',(req,res)=>{
-res.send('Food is running');
+res.send('Food is running......');
 })
 
 app.get('/checfs',(req,res)=>{
